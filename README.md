@@ -86,10 +86,10 @@
                 <h3>Desarrollo de Software</h3>
                 <div class="skill-tags">
                     <span class="skill-tag">Java</span>
-                    <span class="skill-tag">Python</span>
-                    <span class="skill-tag">C#</span>
+                    <span class="skill-tag">Scriptcase (Herramienta LowCode)</span>
+                    <span class="skill-tag">PHP</span>
                     <span class="skill-tag">JavaScript</span>
-                    <span class="skill-tag">SQL</span>
+                    <span class="skill-tag">Microsoft SQL Server</span>
                 </div>
             </div>
             <div class="skill-category">
@@ -107,9 +107,7 @@
                 <div class="skill-tags">
                     <span class="skill-tag">Power BI</span>
                     <span class="skill-tag">Tableau</span>
-                    <span class="skill-tag">R</span>
-                    <span class="skill-tag">Pandas</span>
-                    <span class="skill-tag">NumPy</span>
+                    <span class="skill-tag">IBM Watson Studio</span>
                 </div>
             </div>
             <div class="skill-category">
@@ -127,7 +125,6 @@
                 <div class="skill-tags">
                     <span class="skill-tag">Scrum</span>
                     <span class="skill-tag">Kanban</span>
-                    <span class="skill-tag">PMI</span>
                     <span class="skill-tag">Jira</span>
                     <span class="skill-tag">MS Project</span>
                 </div>
@@ -135,11 +132,7 @@
             <div class="skill-category">
                 <h3>Cloud & DevOps</h3>
                 <div class="skill-tags">
-                    <span class="skill-tag">AWS</span>
                     <span class="skill-tag">Azure</span>
-                    <span class="skill-tag">Docker</span>
-                    <span class="skill-tag">Kubernetes</span>
-                    <span class="skill-tag">CI/CD</span>
                 </div>
             </div>
         </div>
@@ -152,22 +145,23 @@
             <div class="contact-card">
                 <i>📧</i>
                 <h3>Email</h3>
-                <p>tu.email@profesional.com</p>
+                <p>christian.ilabaca@gmail.com</p>
             </div>
             <div class="contact-card">
                 <i>💼</i>
                 <h3>LinkedIn</h3>
-                <p>linkedin.com/in/tuPerfil</p>
+                <p>[linkedin.com/in/cilabacav](https://www.linkedin.com/in/cilabacav/)</p>
+                <p></p>
             </div>
             <div class="contact-card">
                 <i>🐙</i>
                 <h3>GitHub</h3>
-                <p>github.com/tuUsuario</p>
+                <p>[github.com/cilabaca](https://github.com/cilabaca/)</p>
             </div>
             <div class="contact-card">
                 <i>📱</i>
                 <h3>Teléfono</h3>
-                <p>+56 9 1234 5678</p>
+                <p>+56 9 8613 5800</p>
             </div>
         </div>
     </section>
