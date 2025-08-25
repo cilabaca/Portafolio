@@ -150,13 +150,13 @@
             <div class="contact-card">
                 <i>💼</i>
                 <h3>LinkedIn</h3>
-                <p>[linkedin.com/in/cilabacav](https://www.linkedin.com/in/cilabacav/)</p>
+                <p>https://www.linkedin.com/in/cilabacav/</p>
                 <p></p>
             </div>
             <div class="contact-card">
                 <i>🐙</i>
                 <h3>GitHub</h3>
-                <p>[github.com/cilabaca](https://github.com/cilabaca/)</p>
+                <p>https://github.com/cilabaca/</p>
             </div>
             <div class="contact-card">
                 <i>📱</i>
