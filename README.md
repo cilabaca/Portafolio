@@ -78,8 +78,8 @@
             </div>            
             <div class="timeline-item">
                 <span class="year">2011 - 2012</span>
-                <h3>Gestor de Proyectos Tecnológicos</h3>
-                <p>Planificación, ejecución y supervisión de proyectos tecnológicos complejos, asegurando entregas exitosas dentro de plazos y presupuestos establecidos.</p>
+                <h3>Gestor de Proyectos Tecnológicos - Programa FNDR Sernatur Los Lagos</h3>
+                <p>Planificación, ejecución de proyectos tecnológicos segun presupuestos establecidos bajo el gobierno regional. Soporte TI a usuarios, desarrollo sitio web.</p>
             </div>
             <div class="timeline-item">
                 <span class="year">2010 - 2011</span>
