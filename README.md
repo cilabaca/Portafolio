@@ -57,24 +57,34 @@
         <h2>Trayectoria Profesional</h2>
         <div class="timeline">
             <div class="timeline-item">
-                <span class="year">2020 - Presente</span>
+                <span class="year">2023 - Presente</span>
+                <h3>Desarrollador de Sistemas</h3>
+                <p>Desarrollo de aplicaciones a medida para empresa de alimentos internacional con casa matriz en EEUU, análisis de requerimientos, uso de herramientas de low code (Scriptcase), Configuracion y Programacion en PLC Siemens para automatizacion industrial, uso de heramientas de microsoft para la automatizacion mediante flujos con IA.</p>
+            </div>
+            <div class="timeline-item">
+                <span class="year">2016 - 2023</span>
+                <h3>Encargado de Informática en Centro de Estudios</h3>
+                <p>Resolución de incidencias técnicas, mantenimiento de sistemas y soporte a usuarios finales en entornos corporativos. Instalacion de cableado estructurado y central telefónica</p>
+            </div>            
+            <div class="timeline-item">
+                <span class="year">2014 - 2016</span>
                 <h3>Cabecera Técnica en Telecomunicaciones</h3>
                 <p>Liderazgo de equipos técnicos, implementación de soluciones de telecomunicaciones avanzadas y optimización de infraestructuras de red.</p>
             </div>
             <div class="timeline-item">
-                <span class="year">2017 - 2020</span>
+                <span class="year">2012 - 2014</span>
+                <h3>Soporte TI Centro de Educacion Superior</h3>
+                <p>Resolución de incidencias técnicas, mantenimiento de sistemas y soporte a usuarios finales en entornos corporativos.</p>
+            </div>            
+            <div class="timeline-item">
+                <span class="year">2011 - 2012</span>
                 <h3>Gestor de Proyectos Tecnológicos</h3>
                 <p>Planificación, ejecución y supervisión de proyectos tecnológicos complejos, asegurando entregas exitosas dentro de plazos y presupuestos establecidos.</p>
             </div>
             <div class="timeline-item">
-                <span class="year">2012 - 2017</span>
+                <span class="year">2010 - 2011</span>
                 <h3>Analista Programador</h3>
                 <p>Desarrollo de aplicaciones empresariales, análisis de requerimientos y implementación de soluciones de software personalizadas.</p>
-            </div>
-            <div class="timeline-item">
-                <span class="year">2009 - 2012</span>
-                <h3>Soporte TI</h3>
-                <p>Resolución de incidencias técnicas, mantenimiento de sistemas y soporte a usuarios finales en entornos corporativos.</p>
             </div>
         </div>
     </section>
